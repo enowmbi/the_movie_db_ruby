@@ -2,7 +2,7 @@
 
 require_relative "the_movie_db/version"
 
+# TheMovieDb module - autoload dependency classes
 module TheMovieDb
-  class Error < StandardError; end
   # Your code goes here...
 end
