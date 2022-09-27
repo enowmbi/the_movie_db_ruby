@@ -1,8 +1,9 @@
+[![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)](https://github.com/rubocop/rubocop)
+[![Ruby Style Guide](https://img.shields.io/badge/code_style-community-brightgreen.svg)](https://rubystyle.guide)
+[![Ruby on Rails CI](https://github.com/enowmbi/the_movie_db_ruby/actions/workflows/ruby.yml/badge.svg)](https://github.com/en owmbi/the_movie_db_ruby/actions/workflows/ruby.yml)
+
 # TheMovieDb
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/the_movie_db`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem contains methods that map to version 3 of The Movie Database (TMDB) API endpoints
 
 ## Installation
 
@@ -26,7 +27,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/the_movie_db. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/the_movie_db/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/enowmbi/the_movie_db. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/enowmbi/the_movie_db/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
