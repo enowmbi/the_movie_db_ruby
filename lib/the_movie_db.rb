@@ -9,4 +9,6 @@ module TheMovieDb
   autoload(:ForbiddenException, "the_movie_db/exceptions")
   autoload(:NotFoundException, "the_movie_db/exceptions")
   autoload(:ServerException, "the_movie_db/exceptions")
+  autoload(:Base, "the_movie_db/base")
+  autoload(:Account, "the_movie_db/account")
 end
